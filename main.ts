@@ -3,5 +3,5 @@ radio.onReceivedString(function (receivedString) {
 })
 radio.setGroup(9)
 basic.forever(function () {
-    basic.showString("Hello!")
+    basic.showString("Hi!")
 })
